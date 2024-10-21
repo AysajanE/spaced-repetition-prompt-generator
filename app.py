@@ -29,7 +29,7 @@ SYSTEM_MESSAGE = """You are an AI assistant specialized in creating effective sp
 13. Add dates to prompts for volatile information that changes over time. This helps track the currency and relevance of the knowledge.
 14. Prioritize knowledge. Focus on the most important information first. Continuously improve and prioritize prompts based on their importance and the learner’s needs.
 
-Generate a set of 5-20 prompts based on the input text and topics."""
+Generate a set of 5-50 prompts based on the input text and topics."""
 
 OPENAI_MODEL = "gpt-4o"
 ANTHROPIC_MODEL = "claude-3-haiku-20240307"
